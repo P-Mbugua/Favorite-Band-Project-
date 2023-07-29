@@ -1,16 +1,15 @@
-                                FAVORITE BAND PROJECT
+                                      FAVORITE BAND PROJECT
 
-AUTHOR
+                                             AUTHOR
 
-Peter Mbugua.
+                                          Peter Mbugua.
 ![Title-Image-4_80465274aebb5](https://github.com/Petermbugu/Favorite-Band-Project-/assets/125895000/4cec4916-38a4-4787-b890-5dff31c0dc3b)
 
 
-PROJECT NAME:  EMINENT BAND.
+                                         PROJECT NAME:  
+                                         EMINENT BAND.
 
-PROJECT DESCRIPTION.
-
-
+                                       PROJECT DESCRIPTION.
 The project on explaining the most favorite band. I have further named it "Eminent Band" meaning the most favorite band to me.
 the project has majored in a Band in Kenya that is widely and commonly known to many.
 its name is "SAUTI SOL"
