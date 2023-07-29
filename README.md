@@ -26,6 +26,6 @@ They include the following:
 Besides the following songs, Sauti Sol has released many other songs and have gained popularity both in Kenya and also the whole of Africa.
 The project also contains the links of some of their songs.
 
-
-
-A
+The project contains much more of the band.
+Enjoy as you go through my project work.
+Thank you.
