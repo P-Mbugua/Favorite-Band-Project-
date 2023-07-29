@@ -1,3 +1,11 @@
+FAVORITE BAND PROJECT
+
+AUTHOR
+
+Peter Mbugua.
+![Title-Image-4_80465274aebb5](https://github.com/Petermbugu/Favorite-Band-Project-/assets/125895000/4cec4916-38a4-4787-b890-5dff31c0dc3b)
+
+
 PROJECT NAME:  EMINENT BAND.
 
 PROJECT DESCRIPTION.
