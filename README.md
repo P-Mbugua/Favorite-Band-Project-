@@ -1,4 +1,4 @@
-FAVORITE BAND PROJECT
+                                FAVORITE BAND PROJECT
 
 AUTHOR
 
